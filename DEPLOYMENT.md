@@ -14,7 +14,7 @@ Run `npm run build` for TypeScript validation and a production build. `npm run p
 3. From this checkout, review `git status`, then commit the new files and push to `main`. The workflow runs automatically; it can also be started from Actions.
 4. Wait for the Deploy portfolio to GitHub Pages workflow to finish, then visit https://laithabdo95.github.io/.
 
-Nothing has been pushed or published by the project preparation process. The workflow assumes `main`; update its branch filter if the repository default changes. Root base `/` is intentional for this user-site repository.
+The site is live at https://laithabdo95.github.io/ and redeploys automatically on every push to `main`. The workflow assumes `main`; update its branch filter if the repository default changes. Root base `/` is intentional for this user-site repository.
 
 ## Editing
 
