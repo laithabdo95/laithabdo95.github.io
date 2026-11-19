@@ -160,7 +160,7 @@ function App() {
               </div>
               <dl className="stats in d5">
                 <div><dt>Shipping iOS since</dt><dd>2017</dd></div>
-                <div><dt>Apps shipped to the App Store</dt><dd>20+</dd></div>
+                <div><dt>Apps shipped to the App Store</dt><dd>40+</dd></div>
                 <div><dt>Teams led &amp; built with</dt><dd>4</dd></div>
               </dl>
             </div>
@@ -187,7 +187,7 @@ function App() {
                 <p className="eyebrow">01 / Selected work</p>
                 <h2>Apps built.<br />Experience earned.</h2>
               </div>
-              <p className="muted">A top selection from 20+ apps shipped across fintech, banking, telecom, sports and news. Keep scrolling — each app flips into view.</p>
+              <p className="muted">A top selection from 40+ apps shipped across fintech, banking, telecom, sports and news. Keep scrolling — each app flips into view.</p>
             </div>
 
             <div className="deck">
@@ -287,7 +287,7 @@ function App() {
                 </React.Fragment>
               ))}
             </div>
-            <p className="note reveal">These 8 are a top selection from 20+ apps I’ve shipped to the App Store, plus private company applications and projects no longer listed.</p>
+            <p className="note reveal">These 8 are a top selection from 40+ apps I’ve shipped to the App Store, plus private company applications and projects no longer listed.</p>
           </div>
         </section>
 
